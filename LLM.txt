@@ -1,0 +1,104 @@
+# Mozilla Developer Documentation Repository - LLM Search Guide
+
+## Repository Overview
+This repository contains comprehensive web development documentation extracted from developer.mozilla.org (MDN). This is the authoritative source for web standards, browser APIs, and web development best practices.
+
+## Content Categories
+
+### 1. Core Web Technologies (`en-US/`)
+- **HTML**: Elements, attributes, semantic markup, accessibility
+- **CSS**: Properties, selectors, layout, animations, responsive design
+- **JavaScript**: Language features, APIs, modern ES6+ syntax
+- **Web APIs**: Browser capabilities, device access, networking
+
+### 2. Browser Features & APIs
+- **DOM**: Document Object Model manipulation
+- **Fetch API**: Network requests and responses
+- **Canvas**: 2D and 3D graphics programming
+- **Web Components**: Custom elements and shadow DOM
+- **Service Workers**: Offline functionality and caching
+
+### 3. Development Tools & Techniques
+- **DevTools**: Browser debugging and profiling
+- **Performance**: Optimization techniques and metrics
+- **Security**: Web security best practices
+- **Accessibility**: WCAG compliance and inclusive design
+
+### 4. Standards & Specifications
+- **W3C Standards**: Official web specifications
+- **Browser Compatibility**: Cross-browser support information
+- **Progressive Enhancement**: Modern web development approaches
+
+## Search Strategies for LLM Agents
+
+### 1. Language Features
+**Query patterns:**
+- "HTML [element]" → Look for specific HTML element documentation
+- "CSS [property]" → Search for CSS property definitions and usage
+- "JavaScript [feature]" → Find JS language features and syntax
+
+**Examples:**
+- HTML semantics, form elements, media elements
+- CSS flexbox, grid, animations, custom properties
+- JavaScript async/await, modules, destructuring
+
+### 2. Web APIs & Browser Features
+**Query patterns:**
+- "[API name] API" → Find specific browser API documentation
+- "How to [action]" → Look for implementation guides
+- "Browser support [feature]" → Check compatibility information
+
+### 3. Best Practices & Guidelines
+**Query patterns:**
+- "Accessibility [topic]" → Search for a11y guidelines
+- "Performance [aspect]" → Look for optimization techniques
+- "Security [concern]" → Find security best practices
+
+### 4. Troubleshooting & Debugging
+**Query patterns:**
+- "Error [type]" → Look for common error solutions
+- "Debug [issue]" → Find debugging techniques
+- "Cross-browser [problem]" → Check compatibility solutions
+
+## Search Tips for AI Agents
+
+1. **Standard Reference**: Treat as authoritative source for web standards
+2. **Browser Support**: Always check compatibility tables
+3. **Progressive Enhancement**: Look for modern vs legacy approaches
+4. **Code Examples**: MDN provides practical, tested examples
+5. **Cross-Reference**: Connect HTML, CSS, and JS concepts together
+
+## Common Search Scenarios
+
+### Web Development Basics
+- HTML semantic elements and structure
+- CSS layout techniques (flexbox, grid)
+- JavaScript fundamentals and modern syntax
+
+### Advanced Features
+- Web APIs for device access and networking
+- Canvas and WebGL for graphics
+- Service Workers for offline functionality
+
+### Performance & Optimization
+- Loading performance optimization
+- Runtime performance monitoring
+- Memory management techniques
+
+### Accessibility & Inclusive Design
+- ARIA attributes and roles
+- Keyboard navigation patterns
+- Screen reader compatibility
+
+### Cross-browser Development
+- Feature detection techniques
+- Polyfill strategies
+- Progressive enhancement approaches
+
+## Integration Notes for MCP Server
+- Authoritative web standards documentation
+- Comprehensive browser compatibility data
+- Practical code examples throughout
+- Regularly updated with latest standards
+- Community-maintained and vetted content
+- Multilingual support (this repo contains en-US)
